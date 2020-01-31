@@ -1,0 +1,124 @@
+{
+  "chars": [
+    {
+      "id": 1,
+      "name": "Mario",
+      "imgSrc": "https://i2.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/MarioCSS.png"
+    },
+    {
+      "id": 2,
+      "name": "Donkey Kong",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/DKCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 3,
+      "name": "Link",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/LinkCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 4,
+      "name": "Samus",
+      "imgSrc": "https://i1.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/SamusCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 5,
+      "name": "Yoshi",
+      "imgSrc": "https://i1.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/YoshiCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 6,
+      "name": "Fox",
+      "imgSrc": "https://i1.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/FoxCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 7,
+      "name": "Pickachu",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/PikachuCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 8,
+      "name": "Jigglypuff",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/JigglypuffCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 9,
+      "name": "Captain Falcon",
+      "imgSrc": "https://i2.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/CfalconCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 10,
+      "name": "Ness",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/NessCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 11,
+      "name": "Kirby",
+      "imgSrc": "https://i1.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/KirbyCSS.png?resize=91%2C88"
+    },
+    {
+      "id": 12,
+      "name": "Luigi",
+      "imgSrc": "https://i0.wp.com/www.sourcegaming.info/wp-content/uploads/2015/10/LuigiCSS.png?resize=91%2C88"
+    },
+    {
+      "name": "Jojo",
+      "imgSrc": "/newcomers/el_jojos.jpg",
+      "id": 13
+    },
+    {
+      "name": "Pichu",
+      "imgSrc": "/newcomers/el_pichulas.jpg",
+      "id": 14
+    },
+    {
+      "name": "Okami",
+      "imgSrc": "/newcomers/dogo.jpg",
+      "id": 15
+    },
+    {
+      "name": "Dorime",
+      "imgSrc": "/newcomers/69567266_789651561438045_3711161819833300222_n.jpg",
+      "id": 16
+    },
+    {
+      "name": "Pusheen",
+      "imgSrc": "/newcomers/61284518_10216879457811778_4104940578272182272_n.jpg",
+      "id": 17
+    },
+    {
+      "name": "Snoop",
+      "imgSrc": "/newcomers/65897296_2131471793819829_4742813255464910848_n (2).jpg",
+      "id": 18
+    }
+  ],
+  "votes": [
+    {
+      "charId": 17,
+      "counterId": 3,
+      "voteState": true,
+      "userId": "114040855094269354870",
+      "id": 1
+    },
+    {
+      "charId": 3,
+      "counterId": 17,
+      "voteState": false,
+      "userId": "114040855094269354870",
+      "id": 2
+    },
+    {
+      "charId": 3,
+      "counterId": 2,
+      "voteState": false,
+      "userId": "114040855094269354870",
+      "id": 3
+    },
+    {
+      "charId": 2,
+      "counterId": 3,
+      "voteState": true,
+      "userId": "114040855094269354870",
+      "id": 4
+    }
+  ]
+}
